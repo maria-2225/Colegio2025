@@ -1,0 +1,5 @@
+1) se coloca la base de datos en el Xampp 
+2) nombre de la base de datos "student"
+3)contraseña para ingrsar al Panel Administrativo 
+USUARIO "administrador"
+CONTRASEÑA "administrador"
